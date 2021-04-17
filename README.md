@@ -44,6 +44,8 @@ $ thank-you-stars
 2021/04/17 15:09:52 Starred! github.com/zmb3/spotify 
 ```
 
+Now all you have to do is give a star to this repository :D 🌟
+
 ## Option
 
 ```
