@@ -7,6 +7,8 @@ inspired by
 - https://github.com/y-taka-23/thank-you-stars
 - https://github.com/teppeis/thank-you-stars
 
+This tool checks go.mod and gives stars to all dependencies.
+
 ## Set up
 
 ### Go version < 1.16
