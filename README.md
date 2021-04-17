@@ -31,6 +31,17 @@ This repository only needs the scope of public_repo.
 ```
 $ export GITHUB_AUTH_TOKEN=your_github_auth_token
 $ thank-you-stars
+2021/04/17 15:09:49 Starred! github.com/go-gorp/gorp/v3 
+2021/04/17 15:09:50 Starred! github.com/go-sql-driver/mysql 
+2021/04/17 15:09:50 Starred! github.com/golang/mock 
+2021/04/17 15:09:50 Starred! github.com/golang/protobuf 
+2021/04/17 15:09:51 Starred! github.com/google/go-cmp 
+2021/04/17 15:09:51 Starred! github.com/google/uuid 
+2021/04/17 15:09:51 Starred! github.com/gorilla/websocket 
+2021/04/17 15:09:52 Starred! github.com/labstack/echo/v4 
+2021/04/17 15:09:52 Starred! github.com/labstack/gommon 
+2021/04/17 15:09:52 Starred! github.com/patrickmn/go-cache 
+2021/04/17 15:09:52 Starred! github.com/zmb3/spotify 
 ```
 
 ## Option
