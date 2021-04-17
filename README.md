@@ -23,6 +23,11 @@ go install github.com/sanposhiho/thank-you-stars@latest
 
 ## How to use
 
+You have to generate GitHub Auth Token.
+
+Go https://github.com/settings/tokens and generate token.
+This repository only needs the scope of public_repo.
+
 ```
 $ export GITHUB_AUTH_TOKEN=your_github_auth_token
 $ thank-you-stars
