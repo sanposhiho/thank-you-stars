@@ -9,6 +9,7 @@ inspired by
 
 This tool checks go.mod and gives stars to all dependencies.
 
+
 ## Set up
 
 ### Go version < 1.16
